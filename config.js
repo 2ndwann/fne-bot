@@ -7,5 +7,5 @@ exports.config = {
 	javaBinLocation: '', // Location to java executable
 	mcServerLocation: '', // Location to root folder of mc server
 	mcServerJarBinLocation: '', // Location to mc server jar
-	channels: [] // Put the channels that you want the bot to output chat messages here		
+	channels: [] // Put the discord channels that you want the bot to output chat messages here		
 };
